@@ -1,3 +1,5 @@
+// Time complexity  of this program is constant.
+
 #include<iostream>
 using namespace std;
 #include<math.h>
